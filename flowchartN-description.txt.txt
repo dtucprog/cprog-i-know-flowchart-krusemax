@@ -1,3 +1,0 @@
-Beskrivelse til opgave 10
-Jeg skal gå en tur med hunden. 
-Er det regnvejr går jeg kun en lille tur. Er det ikke regnvejr går jeg en længere tur. Outputtet er her længde på turen og længden er betinget af om det er regnvejr eller ikke. 
